@@ -1,0 +1,6 @@
+train: ../d5/train/images
+val: ../d5/valid/images
+test: ../d5/test/images
+
+nc: 1
+names: ['fish']
